@@ -5,6 +5,7 @@ subtitle:   "My first post with some good old latex and maybe some code"
 date:       2015-05-06 18:06:00
 author:     "Juri Ranieri"
 header-img: "img/post-bg-04.jpg"
+comments: true
 ---
 
 <p> Let me make sure I am not crazy, latex works! $$\phi(x,y)$$</p> 
