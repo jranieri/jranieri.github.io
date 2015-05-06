@@ -3,6 +3,7 @@ layout:     post
 title:      "Let's test the post with latex"
 subtitle:   "My first post with some good old latex and maybe some code"
 date:       2015-05-06 18:06:00
+category: article
 ---
 
 <p> Let me make sure I am not crazy, latex works! $$\phi(x,y)$$</p> 
