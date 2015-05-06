@@ -31,9 +31,10 @@ comments: true
 				{{ content }}
 
                 <hr>
-                {% include social_share.html %} 
+
                 <ul class="pager">
-                    {% if page.previous.url %}
+                    <h4> Share on </h4>
+                    <!-- {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
                     </li>
@@ -42,8 +43,8 @@ comments: true
                     <li class="next">
                         <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
                     </li>
-                    {% endif %}
-                    
+                    {% endif %} -->
+                    {% include social_share.html %} 
                 </ul>
                 {% if page.comments %}
                     <div id="disqus_thread"></div>
