@@ -1,0 +1,17 @@
+# Site settings
+title: Juri Ranieri
+header-img: img/img_test.jpg
+email: juri.ranieri@gmail.com
+description: "A personal blog, discussing all the passion of the author"
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: JuriRanieri
+github_username:  jranieri
+facebook_username:  juri.ranieri
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
