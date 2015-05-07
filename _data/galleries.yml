@@ -1,0 +1,23 @@
+- id: gallery1
+  description: A couple of shots from Lebanon
+  imagefolder: /img/gallery1
+  images:
+  - name: lebanon-1.jpg
+    text: The first image
+  - name: lebanon-2.jpg
+    text: The second image
+  - name: lebanon-3.jpg
+    text: The third image
+
+
+- id: gallery2
+  description: 'A tour between Catania, Agrigento and Siracusa'
+  imagefolder: /img/gallery2
+  images:
+  - name: sicily-1.jpg
+    text: The first image
+  - name: sicily-2.jpg
+    text: The second image
+  - name: sicily-3.jpg
+    text: The third image
+

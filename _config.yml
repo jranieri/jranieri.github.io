@@ -4,7 +4,8 @@ header-img: img/img_test.jpg
 email: juri.ranieri@gmail.com
 description: "A personal blog, discussing all the passion of the author"
 baseurl: ""
-url: "http://www.juriranieri.com"
+# url: "http://www.juriranieri.com"
+ulr: "htpp://localhost:4000"
 twitter_username: JuriRanieri
 github_username:  jranieri
 facebook_username:  juri.ranieri

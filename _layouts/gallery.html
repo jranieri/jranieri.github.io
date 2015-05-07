@@ -4,6 +4,10 @@ author:     "Juri Ranieri"
 header-img: "img/bg-4.jpg"
 comments: true
 ---
+<!-- Load some extra scripts -->
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/lightbox-2.6.min.js"></script>
+<link href="/css/lightbox.css" rel="stylesheet" />
 
 <!-- Post Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
@@ -28,12 +32,21 @@ comments: true
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-				{{ content }}
-
+				{% for gallery in site.data.galleries %}
+                    {% if gallery.id == page.galleryid %}
+                        <h1>{{ gallery.description }}</h1>
+                        <ol>
+                        {% for image in gallery.images %}
+                                {{ image.text }}<br>
+                                <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+                                <img src="{{ gallery.imagefolder }}/{{ image.name }}">
+                                </a>   
+                        {% endfor %}
+                        </ol>
+                    {% endif %}
+                {% endfor %}
+                {% include social_share.html %} 
                 <hr>
-
-                <ul class="pager">
-                    <h4> Share on </h4>
                     <!-- {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
@@ -44,8 +57,8 @@ comments: true
                         <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
                     </li>
                     {% endif %} -->
-                    {% include social_share.html %} 
-                </ul>
+                    
+                
                 {% if page.comments %}
                     <div id="disqus_thread"></div>
                     <script type="text/javascript">

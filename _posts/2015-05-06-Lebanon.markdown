@@ -1,0 +1,8 @@
+---
+layout:     gallery
+title:      "A tour of Lebanon (2015)"
+date:       2015-05-06 23:00:00
+category: photography
+galleryid: gallery1
+---
+
