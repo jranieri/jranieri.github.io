@@ -4,13 +4,13 @@ description: "Home Page"
 header-img: "img/bg-1.jpg"
 ---
 
-Welcome to my personal webpage. At the moment is pretty empty, but I am strongly motivated in having this website finished and active by the end of the summer 2015. 
+Welcome to my personal webpage. At the moment is pretty empty, but the target is to have it up and running by the end of the summer (2015).
 
 What will I focus on?
 
-*  	Blog articles about things I am currently doing, or that I am looked into in the past or that I will love to do in the near future.
-*   Present all my research results, since the beginning of my PhD. I want them to be reproducible by anyone (i.e. data, code and instructions available) and potentially understandable by everyone(i.e. writing small essays describing the topics to non-practitioners)
-* 	Post galleries with a selection of my favourite photos that I shot around the world. 
+*  	Blog articles about things I am currently doing, or that I have looked into in the past or that I will love to do in the near future. 
+*   Present all my research results, since the beginning of my PhD. I want them to be reproducible by anyone (i.e. data, code and instructions available) and potentially understandable by everyone (i.e. additional small essays describing the topics to non-practitioners).
+* 	Galleries with a selection of my favorite photos that I shot around the world. 
 
 Indeed, quite a soup. Hopefully, it will be juicy and inspiring. 
 
