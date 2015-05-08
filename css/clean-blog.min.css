@@ -401,3 +401,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.gallery_teaser {
+  max-width: 50%;
+  max-height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
