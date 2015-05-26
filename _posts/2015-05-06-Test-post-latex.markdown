@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      "Let's test the post with latex"
 subtitle:   "My first post with some good old latex and maybe some code"
 date:       2015-05-06 18:06:00

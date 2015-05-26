@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      "How to link an Ipython notebook and a presentation on a static blog made with Jekyll"
 date:       2015-05-07 1:42:00
 category: article

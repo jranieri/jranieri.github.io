@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     page
 title:      "What I wished I knew during my PhD..."
 date:       2015-05-11 15:26:00
 category: article
