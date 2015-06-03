@@ -1,0 +1,878 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tem",
+				"tempEstimate"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"distances",
+				"Distances"
+			],
+			[
+				"eigen",
+				"eigenVectors"
+			],
+			[
+				"eige",
+				"eigenValues"
+			],
+			[
+				"N",
+				"N"
+			],
+			[
+				"points",
+				"points"
+			],
+			[
+				"A",
+				"and"
+			],
+			[
+				"all",
+				"alltours"
+			],
+			[
+				"ran",
+				"randrange"
+			],
+			[
+				"cand",
+				"candy2move"
+			],
+			[
+				"stri",
+				"strip"
+			],
+			[
+				"sieve",
+				"sieve_list"
+			],
+			[
+				"primes",
+				"primes_sieve"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "a_research.html",
+			"settings":
+			{
+				"buffer_size": 2169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "research/edm.html",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 525,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "research/sensor_placement.html",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"PACK",
+				"Package Control: Enable Package"
+			],
+			[
+				"spell ",
+				"Google Spell Check"
+			],
+			[
+				"migra",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ranieri/Desktop/myCleanBlog"
+	],
+	"file_history":
+	[
+		"/Users/ranieri/Desktop/myCleanBlog/research/sensor_placement.html",
+		"/Users/ranieri/Downloads/erc-template/erc2013-B1.tex",
+		"/Users/ranieri/Desktop/Work Files/MyProjects/Optimal Sensor Placement/publications/TSP/preprint/optimalsensorallocation.tex",
+		"/Users/ranieri/Desktop/jacqueline.tex",
+		"/Users/ranieri/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/9E9EF858-C5B8-4FA7-A0C9-1BC3093B5A5A/greedy_fp_norm_wo_fast_jgv.m",
+		"/Users/ranieri/Dropbox/phase retrieval the final showdown/python/measure_distance.py",
+		"/Users/ranieri/Desktop/myCleanBlog/_posts/2015-05-06-Test-post-latex.markdown",
+		"/Users/ranieri/Desktop/myCleanBlog/_posts/2015-05-07-test-notebook.md",
+		"/Users/ranieri/Dropbox/phase retrieval the final showdown/python/bruteforce.py",
+		"/Users/ranieri/Desktop/myCleanBlog/_posts/2015-05-11-presentation-what-to-do-phd.md",
+		"/Users/ranieri/Dropbox/phase retrieval the final showdown/python/hungarian_algorithm.py",
+		"/Users/ranieri/Dropbox/phase retrieval the final showdown/python/munkres/hungarian_algorithm.py",
+		"/Users/ranieri/Desktop/myCleanBlog/_includes/footer.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_config.yml",
+		"/Users/ranieri/Desktop/myCleanBlog/_includes/head.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_layouts/gallery.html",
+		"/Users/ranieri/Desktop/myCleanBlog/css/lightbox.css",
+		"/Users/ranieri/Desktop/myCleanBlog/LICENSE",
+		"/Users/ranieri/Desktop/myCleanBlog/_site/css/bootstrap.css",
+		"/Users/ranieri/Desktop/myCleanBlog/index.md",
+		"/Users/ranieri/Desktop/myCleanBlog/less/clean-blog.less",
+		"/Users/ranieri/Desktop/myCleanBlog/_site/css/clean-blog.css",
+		"/Users/ranieri/Desktop/myCleanBlog/css/bootstrap.css",
+		"/Users/ranieri/Desktop/myCleanBlog/css/clean-blog.css",
+		"/Users/ranieri/Desktop/myCleanBlog/_includes/social_share.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_includes/post-grid.html",
+		"/Users/ranieri/Desktop/myCleanBlog/contact.html",
+		"/Users/ranieri/Desktop/myCleanBlog/c_about.html",
+		"/Users/ranieri/Desktop/myCleanBlog/b_photography.html",
+		"/Users/ranieri/Desktop/myCleanBlog/0_blog.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_includes/nav.html",
+		"/Users/ranieri/Desktop/myCleanBlog/research/diffusion_equation.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_posts/2015-05-06-Sicily.markdown",
+		"/Users/ranieri/Desktop/myCleanBlog/research/digital_epidemiology.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_data/galleries.yml",
+		"/Users/ranieri/Desktop/myCleanBlog/_research/sensor_placement.html",
+		"/Users/ranieri/Desktop/myCleanBlog/a_research.html",
+		"/Users/ranieri/Desktop/myCleanBlog/research/edm.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_posts/2015-05-06-Lebanon.markdown",
+		"/Users/ranieri/Desktop/myCleanBlog/CNAME",
+		"/Users/ranieri/Desktop/myCleanBlog/_layouts/page.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_layouts/post.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_posts/2014-09-24-man-must-explore.markdown",
+		"/Users/ranieri/Desktop/myCleanBlog/less/variables.less",
+		"/Users/ranieri/Desktop/myCleanBlog/index.html",
+		"/Users/ranieri/Desktop/myCleanBlog/_posts/2014-09-18-i-believe.markdown",
+		"/Users/ranieri/Desktop/myCleanBlog/_layouts/blog.html",
+		"/Users/ranieri/Desktop/myCleanBlog/css/extra.css",
+		"/Users/ranieri/Desktop/myCleanBlog/mail/contact_me.php",
+		"/Users/ranieri/Desktop/myCleanBlog/a_photography.html",
+		"/Users/ranieri/Desktop/myCleanBlog/css/clean-blog.min.css",
+		"/Users/ranieri/Desktop/myCleanBlog/photography.html",
+		"/Users/ranieri/Desktop/myCleanBlog/img/post-bg-01.jpg",
+		"/Users/ranieri/Desktop/myBlog/_config.yml",
+		"/Users/ranieri/Desktop/Blog_2/_config.yml",
+		"/Users/ranieri/Desktop/myBlog/_layouts/post.html",
+		"/Users/ranieri/Desktop/myBlog/_includes/head.html",
+		"/Users/ranieri/Desktop/myBlog_github/_sass/lightbox.css",
+		"/Users/ranieri/Desktop/myBlog_github/_includes/galheader.html",
+		"/Users/ranieri/Desktop/myBlog_github/_data/authors.yml",
+		"/Users/ranieri/Desktop/myBlog_github/_config.yml",
+		"/Users/ranieri/Desktop/myBlog_github/photography/index.md",
+		"/Users/ranieri/Desktop/myBlog_github/_data/navigation.yml",
+		"/Users/ranieri/Desktop/myBlog_github/_includes/_head.html",
+		"/Users/ranieri/Desktop/myBlog_github/_sass/mixins.scss",
+		"/Users/ranieri/Desktop/myBlog_github/_layouts/post-index.html",
+		"/Users/ranieri/Desktop/myBlog_github/_layouts/photos-index.html",
+		"/Users/ranieri/Desktop/myBlog_github/_layouts/post.html",
+		"/Users/ranieri/Desktop/myBlog_github/_posts/2015-05-04-latex-test.md",
+		"/Users/ranieri/Dropbox/Django/test_website/mysite/polls/models.py",
+		"/Users/ranieri/Dropbox/Django/test_website/mysite/blog/admin.py",
+		"/Users/ranieri/Dropbox/Django/test_website/mysite/blog/models.py",
+		"/Users/ranieri/Dropbox/Django/test_website/mysite/manage.py",
+		"/Users/ranieri/erc-wp5/wp5.tex",
+		"/Users/ranieri/Dropbox/CodeProject/AlgorithmsWithPython/int2str.py",
+		"/Users/ranieri/Dropbox/CodeProject/AlgorithmsWithPython/par_checker.py",
+		"/Users/ranieri/Dropbox/CodeProject/AlgorithmsWithPython/rev_string.py",
+		"/Users/ranieri/Dropbox/CodeProject/AlgorithmsWithPython/fraction.py",
+		"/Users/ranieri/Dropbox/CodeProject/AlgorithmsWithPython/stack.py",
+		"/Users/ranieri/Desktop/Burocrazia/academic CV/jranieri_cv.tex",
+		"/Users/ranieri/Dropbox/CodeProject/AlgorithmDesign/Chapter1/TSP/TSP.py",
+		"/Users/ranieri/Dropbox/citation_graph/test.py",
+		"/Users/ranieri/Downloads/Python Live Search Sample/Python/ProcessRequest.py",
+		"/Users/ranieri/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D3138C0A-D813-4173-93AD-F85841BCB9F2/partitioning-examples.tex",
+		"/Users/ranieri/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/701D18D3-ED62-4A80-A5FA-43E65480FAB4/partitioning-examples.tex",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/PALIN.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/HANGOVER.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/EIGHTS.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/COINS.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/COINS.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/AE00.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/AE00.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/CANDY3.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/CANDY3.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/LASTDIG.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/LASTDIG.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/TOANDFRO.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/JULKA.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/JULKA.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/FASHION.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/FASHION.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/CANDY.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/TOANDFRO.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/CANDY.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/ACPC10A.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/ACPC10A.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/FCTRL.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/SAMERF08F.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/NSTEPS.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/FCTRL2.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/FCTRL2.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/SAMERF08F.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/NSTEPS.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/FCTRL.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/ADDREV.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/ADDREV.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/2.py",
+		"/Users/ranieri/Dropbox/CodeProject/Problem101.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/2.txt",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/1.py",
+		"/Users/ranieri/Dropbox/CodeProject/SPOJ/1.txt",
+		"/Users/ranieri/Dropbox/CodeProject/solution.py",
+		"/Users/ranieri/Dropbox/CodeProject/untitled folder/SPOJ_1",
+		"/Users/ranieri/Dropbox/CodeProject/Problem1025/problem1025.py",
+		"/Users/ranieri/Dropbox/CodeProject/Problem1025/data.txt",
+		"/Users/ranieri/Dropbox/CodeProject/Problem1001.txt",
+		"/Users/ranieri/Dropbox/crystallography/radialx/Makefile.inc",
+		"/Users/ranieri/Desktop/Burocrazia/short CV/cv_12.tex"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DN",
+			"jquer",
+			"image",
+			".small",
+			"hr",
+			"hr ",
+			"hr",
+			"image",
+			"DarkRed",
+			"hr",
+			"li",
+			"intro-header",
+			"row",
+			"background",
+			"back",
+			"col",
+			"lg",
+			"row",
+			"img",
+			"<",
+			"jpg",
+			"home",
+			"font-size",
+			"subhead",
+			"h1",
+			"license",
+			"css",
+			"inner-wrap",
+			"random",
+			"rank",
+			"bib",
+			"theorem",
+			"vone",
+			"small",
+			"we descri",
+			"each cluster",
+			"strengthen",
+			"can further",
+			"We can further",
+			"WE can further",
+			"information the",
+			"the cost",
+			"algorecon",
+			"satisfy certa",
+			"the its",
+			"We use a divide",
+			"fig:perm",
+			"\\cite",
+			"the ACF",
+			"Skiena",
+			"Millane",
+			"Borish",
+			"Allen",
+			"Boutin",
+			"SIAM Journal on\n  Optimization",
+			"Krislock",
+			"Biswas",
+			"Weinberger:2006ic",
+			"Weinberger",
+			"Alfakih",
+			"Glunt",
+			"Browne",
+			"Malone",
+			"Gaffke",
+			"Takane",
+			"Guttman",
+			"Mathar",
+			"Leeuw",
+			"Kruskal",
+			"Parhizkar",
+			"Borg",
+			"Duric",
+			"Keshavan",
+			"Krislock",
+			"Schonemann",
+			"Thrun",
+			"Raykar",
+			"Gaubitch",
+			"Pollefeys",
+			"Crocco",
+			"So ",
+			"So",
+			"Demaine",
+			"Jain",
+			"Tenenbaum",
+			"Liberti",
+			"Trosset",
+			"Hayden",
+			"Glunt",
+			"Gower:1982",
+			"Gower",
+			"Kruskal",
+			"Young",
+			"Blumenthal",
+			"{Schoenberg}",
+			"Schoenberg",
+			"Menger",
+			"Schoenberg",
+			"Liberti",
+			"Torgerson",
+			"Dokmanic",
+			"Ribeiro",
+			"Antonacci",
+			"Havel",
+			"Williamson",
+			"Doherty",
+			"Biswas",
+			"Alfakih:1999dn",
+			"Alfakih",
+			"spmagbo",
+			"Exploiting the ",
+			"is equiva",
+			"EDM P",
+			"box",
+			"boc",
+			"\\begin{c",
+			"phase r",
+			"\\color",
+			"link",
+			"main",
+			"Moore",
+			"pinto",
+			"/figures/",
+			"thesis",
+			"/figures",
+			"/figuresima",
+			"\\subfigure",
+			"/figures/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/images/",
+			"\\subfloat",
+			"/images/",
+			"indices",
+			"^\\dagger",
+			"respect",
+			"with respect to",
+			"PCA",
+			"\\vx",
+			"with respect to",
+			"u_{k}",
+			"u_k",
+			"u(t)",
+			"$\\operatorname{MSE}$",
+			"$\\operatorname{FP}$",
+			"$\\operatorname{MSE}$",
+			"with respect",
+			"./figures/peeling/",
+			"./figures/TIT2014/",
+			"./figures/Allerton2011/",
+			"./figures/ICASSP2012/",
+			"./figures/ICASSP2013/",
+			"./figures/dass/",
+			"./figures/wires/",
+			"./figures/TSP2014/",
+			"./figures/UoS/",
+			"./figures/graph/",
+			"./figures/TCOMP/",
+			"0.30",
+			"\\mathcal",
+			"\\valpha",
+			"\\mPsi",
+			"eq:model_PR",
+			"Algorithm \\ref{alg:",
+			"\\eqref{eq:",
+			"unstability",
+			"\\widetilde{x}_2^*",
+			"\\widetilde{x}_1^*",
+			"r_\\mathcal{K}(x)",
+			"\\widetilde{a}_\\mathcal{K}",
+			"\\widetilde{f}_\\mathcal{K}",
+			"with respect to",
+			"\\emph{et al.}",
+			"with respect",
+			"with regards to",
+			"{prop:bound_approximation_eigensolution}",
+			"igensolution",
+			"\\emph{et al.}",
+			"SN",
+			"/Users/ranieri/Dropbox/thesis/thesis/figures/graph/",
+			"/Users/ranieri/Dropbox/thesis/thesis/figures/",
+			"{eq:cost_function_source_placement_graph}",
+			"{eq:cost_function_source_linear}",
+			"graph/",
+			"../figures/graph/",
+			"{eq:cost_function_FrameSense}",
+			"/Users/ranieri/Dropbox/thesis/thesis/",
+			"alg:noisy_source_placement",
+			"\\text{\\textsf{E}}_",
+			"\\mathsf{E}",
+			"mathbb",
+			"\\mathsf{E}",
+			"\\mathfs{E}",
+			"\\mphi",
+			"\\mPhi",
+			"\\mPhi_",
+			"\\mPhi_{\\calS}",
+			"\\mTheta_\\mathbb{T}",
+			"L_{\\text{MAX}}",
+			"L_{\\text{MIN}}",
+			"L_{\\text{MEAN}}",
+			"L_{\\text{MAX}}",
+			"L_\\text{MAX}",
+			"L_\\text{MIN}",
+			"\\mSigma",
+			" \\emph{et al.}",
+			"\\emph{et al.}",
+			"fig:DASS_recon_comparison_noisySNR",
+			"fig:DASS_recon_comparison_exactSNR",
+			"fig:recon_comparison_noiseless",
+			"\\vn",
+			"\\vf",
+			"eq:CSN_recon",
+			"eq:CS_recon",
+			"\\vf",
+			"\\mSigma",
+			"{sec:components_DASS}",
+			"{sec:experiments_DASS}",
+			"sec:comparison_DASS",
+			"sec:blocks_DASS",
+			"../figures/TCOMP",
+			" \\FP ",
+			" \\MSE ",
+			"proof",
+			"../figures/dass",
+			"../figures/DAC",
+			"$",
+			"-",
+			"p^{\\,(i)}",
+			"\\phi^{\\,(i)}",
+			"\\phi^{(i)}",
+			"\\vomega",
+			"$",
+			"-",
+			"\\wh{G_A}\\left(\\boldsymbol",
+			"G_A(\\boldsymbol",
+			"G_A(\\vx",
+			"\\mathcal{H}_{K,j}",
+			"h_{k,j}",
+			"\\tau_l",
+			"u",
+			"\\u",
+			"\\xi",
+			"with regards to",
+			"Figure \\ref",
+			"-",
+			"proof",
+			"/",
+			"//Users/ranieri/Dropbox/thesis/old_papers/TCOMM2014/pic",
+			"/Users/ranieri/Dropbox/thesis/old_papers/TIT2014/figures",
+			"proof",
+			"/Users/ranieri/Dropbox/thesis/old_papers/TIT2014/figures",
+			"/Users/ranieri/Dropbox/thesis/old_papers/DAC2012/figure",
+			"proof",
+			"/Users/ranieri/Dropbox/thesis/old_papers/TSP2014/figures",
+			"subfloat",
+			"subfigure"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "a_research.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1576,
+								1576
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "research/edm.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "research/sensor_placement.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXing/LaTeX.sublime-build",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 379.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 555.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
