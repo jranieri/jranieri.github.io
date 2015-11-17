@@ -3,11 +3,11 @@
   imagefolder: /img/gallery1
   images:
   - name: lebanon-1.jpg
-    text: The first image
+    text: Vineyeards in the Bekaa valley
   - name: lebanon-2.jpg
-    text: The second image
+    text: Al Shouf Cedar Nature Reserve
   - name: lebanon-3.jpg
-    text: The third image
+    text: Beiteddine Palace
 
 
 - id: gallery2
@@ -15,9 +15,9 @@
   imagefolder: /img/gallery2
   images:
   - name: sicily-1.jpg
-    text: The first image
+    text: Lauretta and I, at la Scala dei Turchi
   - name: sicily-2.jpg
-    text: The second image
+    text: Columns in Siracusa
   - name: sicily-3.jpg
-    text: The third image
+    text: Ragusa Ibla
 

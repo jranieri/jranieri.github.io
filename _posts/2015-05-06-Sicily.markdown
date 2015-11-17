@@ -1,6 +1,6 @@
 ---
 layout:     gallery
-title:      "A tour of south-east Sicily (2014)"
+title:      "South-east Sicily (2014)"
 date:       2015-05-06 23:34:00
 category: photography
 galleryid: gallery2

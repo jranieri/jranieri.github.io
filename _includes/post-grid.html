@@ -1,8 +1,9 @@
 <article class="tile" itemscope itemtype="http://schema.org/Article">
 
-	{% if post.date %}
+<!-- 	{% if post.date %}
 		<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>
-	{% endif %}<h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2></p>
+	{% endif %} -->
+	<h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2></p>
 
 	<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
 	{% for gallery in site.data.galleries %}
